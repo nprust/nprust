@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nprust (Nadine) Scientist at the Proteomics Center at the Erasmus MC in Rotterdam
 - 👀 I’m interested in proteomics
-- 🌱 I’m currently learning how to implement Git in my Rcoding
 - 💞️ I’m looking to collaborate on everything related to proteomics especially phosphoproteomics
 - 📫 How to reach me Twitter @Nadine_p5
 
